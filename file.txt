@@ -1,5 +1,5 @@
-third line
-i My name is Orli 
+line still here bc it's on master 
+ My name is Orli 
 line for second command 
 
 commit free dev
